@@ -1,0 +1,11 @@
+.todo_item{
+  border: 1px solid black;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.todo_item button{
+  margin-right: 10px;
+}
+.todo_form{
+  margin: 20px 0;
+}
